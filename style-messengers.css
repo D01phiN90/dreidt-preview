@@ -14,3 +14,7 @@
 .accessory-note{padding:0 0 40px;display:flex;justify-content:space-between;gap:25px;align-items:center}.accessory-note p{max-width:650px;font-size:11px;color:var(--ink)}@media(max-width:760px){.accessory-note{display:block}.accessory-note a{margin-top:12px}}
 
 .messenger-links{display:flex;flex-wrap:wrap;gap:12px;margin-top:22px}.messenger-link{display:inline-flex;align-items:center;gap:11px;border:1px solid #bca197;padding:12px 15px;min-height:48px;font-size:10px;transition:background .2s}.messenger-link:hover{background:#e8dacf}.messenger-icon{display:flex;align-items:center;justify-content:center;flex:none;width:23px;height:23px}.messenger-icon svg{display:block;width:23px;height:23px}.messenger-link>span:last-child{margin-left:4px}.live-contact .messenger-links{margin-top:0}@media(max-width:760px){.messenger-links{gap:10px}.messenger-link{font-size:10px;padding:12px 13px}}
+
+/* subtle textile background */
+body{position:relative;isolation:isolate}body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background:url("textile-lines.svg") right top/900px 900px repeat;opacity:.09} .photo-word,.fabric-mark{display:none}
+@media(max-width:760px){body::before{background-size:650px 650px;opacity:.065}}
