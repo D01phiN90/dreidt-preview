@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" fill="none" stroke="#745142" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(375 100) scale(.5)">
 <!-- A fine sewing needle and a single loose thread; decorative only. -->
 <path d="M666 485L784 152C788 140 799 143 794 156L666 485Z" stroke-width="1.8"/>
 <ellipse cx="789" cy="154" rx="2.7" ry="8.8" transform="rotate(21 789 154)" stroke-width="1.5"/>
 <path d="M789 154C830 116 859 139 850 181C842 219 785 218 756 247C724 280 762 325 816 313C865 302 883 341 861 380C838 421 780 425 756 463C723 515 774 566 831 561C884 557 905 607 870 647C830 693 757 667 732 713C711 750 731 789 772 812" stroke-width="1.5"/>
 <path d="M-25 620C37 580 112 610 107 662C102 708 40 723 53 769C66 814 138 790 156 835" stroke-width="1.3"/>
-</svg>
+</g></svg>
