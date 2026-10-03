@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" fill="none" stroke="#745142" stroke-width="1.1"><path d="M790 -80C650 60 860 200 755 355S610 590 800 780S900 990 790 1050"/><path d="M825 -80C685 60 895 200 790 355S645 590 835 780S935 990 825 1050"/><path d="M860 -80C720 60 930 200 825 355S680 590 870 780S970 990 860 1050"/><path d="M-90 350C45 230 145 375 80 485S-5 690 90 790"/><path d="M-65 350C70 230 170 375 105 485S20 690 115 790"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" fill="none" stroke="#745142" stroke-linecap="round" stroke-linejoin="round">
+<!-- A fine sewing needle and a single loose thread; decorative only. -->
+<path d="M666 485L784 152C788 140 799 143 794 156L666 485Z" stroke-width="1.8"/>
+<ellipse cx="789" cy="154" rx="2.7" ry="8.8" transform="rotate(21 789 154)" stroke-width="1.5"/>
+<path d="M789 154C830 116 859 139 850 181C842 219 785 218 756 247C724 280 762 325 816 313C865 302 883 341 861 380C838 421 780 425 756 463C723 515 774 566 831 561C884 557 905 607 870 647C830 693 757 667 732 713C711 750 731 789 772 812" stroke-width="1.5"/>
+<path d="M-25 620C37 580 112 610 107 662C102 708 40 723 53 769C66 814 138 790 156 835" stroke-width="1.3"/>
+</svg>
